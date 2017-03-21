@@ -1,0 +1,10 @@
+title = water level Los Angeles
+xLabel = month
+yLabel = height: mts
+color = auto
+graphType = line
+tooltip = This graph represents Los Angeles(Santa Monica) Coast water level maintained by NOAA, Data ranges from 1900 Jan to 2016 April
+plotLines = true
+setRange = true
+yMin = 0
+ymax = 7

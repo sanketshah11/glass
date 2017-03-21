@@ -1,0 +1,10 @@
+title = Server Details
+xLabel = time: seconds
+yLabel = CPU Busy %
+color = auto
+graphType = line
+tooltip = Server CPU Busy in Percentage
+plotLines = true
+setRange = true
+yMin = 0
+ymax = 100

@@ -1,0 +1,10 @@
+title = Server Details
+xLabel = time: seconds
+yLabel = power
+color = auto
+graphType = line
+tooltip = Server Power Details
+plotLines = true
+setRange = true
+yMin = 0
+ymax = 100

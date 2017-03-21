@@ -1,0 +1,10 @@
+title = Server Details
+xLabel = time: seconds
+yLabel = DMA Busy %
+color = auto
+graphType = line
+tooltip = Server DMA read/write Busy Percentage
+plotLines = true
+setRange = true
+yMin = 0
+ymax = 100

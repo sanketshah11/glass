@@ -1,0 +1,10 @@
+title = Server Details
+xLabel = time: seconds
+yLabel = temp: C
+color = auto
+graphType = line
+tooltip = Server Temperature in degree C
+plotLines = true
+setRange = true
+yMin = 0
+ymax = 100

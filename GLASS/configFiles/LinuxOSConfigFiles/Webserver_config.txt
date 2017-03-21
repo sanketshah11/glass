@@ -1,0 +1,10 @@
+title = Web server
+xLabel = time: min
+yLabel = height: mts
+color = auto
+graphType = line
+tooltip = webserver log analysis
+plotLines = true
+setRange = true
+yMin = 0
+ymax = 500

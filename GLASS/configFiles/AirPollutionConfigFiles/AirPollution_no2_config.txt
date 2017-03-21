@@ -1,0 +1,10 @@
+title = Air Pollution Nitrous DiOxide Los Angeles
+xLabel = month
+yLabel = Max PPB
+color = auto
+graphType = line
+tooltip = This graph represents Los Angeles Air Pollution Daily Maximum Parts per Billion
+plotLines = true
+setRange = true
+yMin = 0
+ymax = 100
